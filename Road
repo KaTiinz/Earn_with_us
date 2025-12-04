@@ -1,0 +1,17 @@
+earn_with_us_bot/
+│── bot.py
+│── requirements.txt
+│── .env.example
+│── handlers/
+│     ├── __init__.py
+│     ├── start.py
+│     ├── download.py
+│     ├── invite.py
+│     ├── tasks.py
+│     └── followup.py
+│── services/
+│     ├── __init__.py
+│     ├── database.py
+│     ├── referral.py
+│     └── broadcast.py
+│── README.md
